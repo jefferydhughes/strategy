@@ -2,8 +2,8 @@
 
 ## Project README and Strategic Guardrails
 
-**Project owner:** Jeff Hughes
-**Working perspective:** Senior business-development consultant to Kingswood University
+**Project owner:** Jeff Hughes  
+**Working perspective:** Senior business-development consultant to Kingswood University  
 **Primary objective:** Consolidate the existing proposals into one credible, mission-aligned institutional growth strategy while demonstrating the need for—and Jeff's ability to lead—a permanent strategic growth and partnerships function.
 
 ---
@@ -14,12 +14,12 @@ This README is the governing reference for all files in this project. Read it be
 
 Its purpose is to prevent the work from drifting into:
 
-* A loose collection of unrelated ideas
-* A School of Business proposal presented as an institutional strategy
-* An overly promotional case for creating a job for Jeff
-* Unapproved programs or financial targets presented as commitments
-* Generic consulting language disconnected from Kingswood's Christian mission
-* Ambitious concepts without ownership, evidence, sequencing, or execution discipline
+- A loose collection of unrelated ideas
+- A School of Business proposal presented as an institutional strategy
+- An overly promotional case for creating a job for Jeff
+- Unapproved programs or financial targets presented as commitments
+- Generic consulting language disconnected from Kingswood's Christian mission
+- Ambitious concepts without ownership, evidence, sequencing, or execution discipline
 
 All source documents are evidence and inputs. They are not automatically authoritative, current, approved, or ready for inclusion.
 
@@ -54,13 +54,13 @@ The strategy should prove Jeff's value through the quality of the thinking and t
 
 Kingswood should be positioned as a differentiated Christian university with several connected advantages:
 
-* Distinctly Christian formation integrated throughout learning
-* Applied, authentic, community-based, and transformational education
-* A small-university advantage built on personal attention and mentor access
-* Learning by doing through real organizations, ventures, ministries, and community challenges
-* Stackable, flexible pathways for traditional students and working adults
-* A campus that serves as a platform for education, ministry, community, partnerships, and appropriate earned revenue
-* Growth through program pathways, student conversion, partnerships, community initiatives, and diversified revenue
+- Distinctly Christian formation integrated throughout learning
+- Applied, authentic, community-based, and transformational education
+- A small-university advantage built on personal attention and mentor access
+- Learning by doing through real organizations, ventures, ministries, and community challenges
+- Stackable, flexible pathways for traditional students and working adults
+- A campus that serves as a platform for education, ministry, community, partnerships, and appropriate earned revenue
+- Growth through program pathways, student conversion, partnerships, community initiatives, and diversified revenue
 
 For the MBA, the current working position is:
 
@@ -78,15 +78,15 @@ Kingswood can grow enrolment by developing distinctive, connected pathways rathe
 
 Relevant initiatives may include:
 
-* Existing undergraduate Business programs
-* The 36-credit Christian MBA launched in Spring 2026
-* Future competency-based MBA options
-* Organizational Leadership programming
-* Experiential Business and Ministry education
-* Elements and other one-year entry pathways
-* Sports and Recreation integration
-* Stackable credentials, certificates, and executive education
-* Student ventures, practicums, internships, and community-partner projects
+- Existing undergraduate Business programs
+- The 36-credit Christian MBA launched in Spring 2026
+- Future competency-based MBA options
+- Organizational Leadership programming
+- Experiential Business and Ministry education
+- Elements and other one-year entry pathways
+- Sports and Recreation integration
+- Stackable credentials, certificates, and executive education
+- Student ventures, practicums, internships, and community-partner projects
 
 **Current strategic guardrail:** Lead with the approved or operating MBA. Treat competency-based delivery and other new credentials as phased development work until their academic, assessment, mentoring, staffing, financial, and regulatory requirements are defined.
 
@@ -96,14 +96,14 @@ Kingswood can use its campus, mission, relationships, and expertise as year-roun
 
 Relevant initiatives may include:
 
-* Spring 2027 Amplify Leadership Summit
-* Upward Sports and related student practicums
-* Festival of Lights and community events
-* Business accelerators and entrepreneur support
-* Church, nonprofit, employer, and community partnerships
-* Executive education, workshops, conferences, and intensives
-* Business Lab and naming-rights opportunities
-* Mission-aligned sponsorships and donor relationships
+- Spring 2027 Amplify Leadership Summit
+- Upward Sports and related student practicums
+- Festival of Lights and community events
+- Business accelerators and entrepreneur support
+- Church, nonprofit, employer, and community partnerships
+- Executive education, workshops, conferences, and intensives
+- Business Lab and naming-rights opportunities
+- Mission-aligned sponsorships and donor relationships
 
 **Current strategic guardrail:** Amplify should initially be framed as a focused Kingswood academic, community, partnership, and recruitment experience—not an oversized standalone conference.
 
@@ -113,16 +113,16 @@ Kingswood needs disciplined ownership that moves opportunities from idea to meas
 
 The system should cover:
 
-* Opportunity identification
-* Market and stakeholder validation
-* Business cases and financial modelling
-* Academic and institutional approval
-* Partnership development
-* Launch planning
-* Cross-functional coordination
-* Recruitment and conversion strategy
-* Performance dashboards
-* Post-launch evaluation and improvement
+- Opportunity identification
+- Market and stakeholder validation
+- Business cases and financial modelling
+- Academic and institutional approval
+- Partnership development
+- Launch planning
+- Cross-functional coordination
+- Recruitment and conversion strategy
+- Performance dashboards
+- Post-launch evaluation and improvement
 
 The final strategy may recommend a dedicated **Director of Strategic Growth & Partnerships** or similar function. The exact title is secondary to a clear mandate, authority, accountability, and relationship with existing departments.
 
@@ -134,23 +134,23 @@ Use the strongest elements of the supplied problem-solving prompt as working dis
 
 ### Required approach
 
-* Lead with the answer using the Minto Pyramid Principle.
-* Frame the central challenge using Situation–Complication–Question.
-* Decompose major issues into clear, non-overlapping branches where practical.
-* Use action-oriented headings that state the conclusion.
-* Pair recommendations with evidence, ownership, timing, dependencies, and measures.
-* State what information is required to validate uncertain hypotheses.
-* Use frameworks only when they clarify a real decision.
+- Lead with the answer using the Minto Pyramid Principle.
+- Frame the central challenge using Situation–Complication–Question.
+- Decompose major issues into clear, non-overlapping branches where practical.
+- Use action-oriented headings that state the conclusion.
+- Pair recommendations with evidence, ownership, timing, dependencies, and measures.
+- State what information is required to validate uncertain hypotheses.
+- Use frameworks only when they clarify a real decision.
 
 ### Avoid
 
-* Claiming to be McKinsey or imitating its language unnecessarily
-* Adding frameworks for appearance rather than usefulness
-* Unsupported precision or invented financial projections
-* Treating every brainstormed initiative as a recommendation
-* Repeating the same idea in multiple sections
-* Hiding risks, constraints, or approval requirements
-* Overstating Jeff's authority or Kingswood's commitments
+- Claiming to be McKinsey or imitating its language unnecessarily
+- Adding frameworks for appearance rather than usefulness
+- Unsupported precision or invented financial projections
+- Treating every brainstormed initiative as a recommendation
+- Repeating the same idea in multiple sections
+- Hiding risks, constraints, or approval requirements
+- Overstating Jeff's authority or Kingswood's commitments
 
 ---
 
@@ -158,24 +158,24 @@ Use the strongest elements of the supplied problem-solving prompt as working dis
 
 Every material claim or initiative must be labelled internally using one of these categories:
 
-| Status          | Meaning                                                                                   |
-| --------------- | ----------------------------------------------------------------------------------------- |
-| **Confirmed**   | An operating program, documented fact, assigned commitment, or formally approved decision |
-| **Proposed**    | A developed recommendation awaiting institutional review or approval                      |
-| **Exploratory** | An early concept requiring further research or validation                                 |
-| **Hypothesis**  | A testable belief about demand, revenue, positioning, or impact                           |
-| **Retired**     | An idea that has been replaced, rejected, or is no longer strategically relevant          |
+| Status | Meaning |
+|---|---|
+| **Confirmed** | An operating program, documented fact, assigned commitment, or formally approved decision |
+| **Proposed** | A developed recommendation awaiting institutional review or approval |
+| **Exploratory** | An early concept requiring further research or validation |
+| **Hypothesis** | A testable belief about demand, revenue, positioning, or impact |
+| **Retired** | An idea that has been replaced, rejected, or is no longer strategically relevant |
 
 External-facing documents do not need to display these labels mechanically, but they must preserve the distinctions.
 
 ### Specific cautions
 
-* Do not describe the proposed three-year degree as approved.
-* Do not describe competency-based MBA delivery as operational until confirmed.
-* Do not publish unapproved program claims on recruitment pages.
-* Keep the earlier **$6 million in recurring revenue by December 2029** explicitly labelled as a hypothesis to validate, not an institutional target.
-* Verify event dates, budgets, enrolment numbers, tuition, staffing, and approval status before presenting them as facts.
-* Clearly identify whether each financial figure represents gross revenue, contribution margin, net income, fundraising, or avoided cost.
+- Do not describe the proposed three-year degree as approved.
+- Do not describe competency-based MBA delivery as operational until confirmed.
+- Do not publish unapproved program claims on recruitment pages.
+- Keep the earlier **$6 million in recurring revenue by December 2029** explicitly labelled as a hypothesis to validate, not an institutional target.
+- Verify event dates, budgets, enrolment numbers, tuition, staffing, and approval status before presenting them as facts.
+- Clearly identify whether each financial figure represents gross revenue, contribution margin, net income, fundraising, or avoided cost.
 
 ---
 
@@ -196,10 +196,10 @@ Initiatives should be evaluated consistently against:
 
 Each initiative should ultimately be placed into one of four groups:
 
-* **Execute now**
-* **Validate next**
-* **Develop for later**
-* **Do not pursue**
+- **Execute now**
+- **Validate next**
+- **Develop for later**
+- **Do not pursue**
 
 The final portfolio must show explicit trade-offs. A strategy that prioritizes everything prioritizes nothing.
 
@@ -233,12 +233,12 @@ Jeff's credibility should appear as relevant execution evidence, not self-promot
 
 Relevant experience includes:
 
-* Head of Kingswood's Business & Management Department since 2023
-* Leadership in program development, curriculum, faculty coordination, and departmental planning
-* Contribution to the MBA launched in Spring 2026
-* Founder who grew Skill Samurai across seven countries and served more than 250,000 students
-* Experience in franchising, partnerships, marketing, AI, program creation, and operational systems
-* Ability to translate complex business ideas into clear recommendations and actionable roadmaps
+- Head of Kingswood's Business & Management Department since 2023
+- Leadership in program development, curriculum, faculty coordination, and departmental planning
+- Contribution to the MBA launched in Spring 2026
+- Founder who grew Skill Samurai across seven countries and served more than 250,000 students
+- Experience in franchising, partnerships, marketing, AI, program creation, and operational systems
+- Ability to translate complex business ideas into clear recommendations and actionable roadmaps
 
 The role recommendation should follow this logic:
 
@@ -282,48 +282,58 @@ For every major revision:
 
 ### Required living records
 
-* Source inventory
-* Initiative portfolio
-* Decision register
-* Assumption and validation log
-* Three-year roadmap
-* Scorecard
-* Session status
+- Source inventory
+- Initiative portfolio
+- Decision register
+- Assumption and validation log
+- Three-year roadmap
+- Scorecard
+- Session status
+
+### Current control document
+
+- `Kingswood_Strategic_Inventory.md` - working source inventory, initiative portfolio, revenue-stream register, gap analysis, prioritization hypothesis, decision register and missing-source list.
 
 ---
 
 ## 13. Current Working Decisions
 
-As of **September 8, 2026**:
+As of **September 9, 2026**:
 
-* The project will be framed as an institutional growth strategy prepared from a senior business-development consultant's perspective.
-* The strategy will demonstrate the need for dedicated growth ownership without reading as a disguised job application.
-* The standard 36-credit Christian MBA is the lead MBA pathway; competency-based delivery remains phased development work unless its status changes.
-* Experiential learning should initially be piloted within approved programs before Kingswood attempts multiple large structural changes.
-* Amplify should be developed as an academic, recruitment, partnership, and community anchor for Spring 2027.
-* Recruitment language must distinguish available, proposed, and future offerings.
-* The $6 million recurring-revenue figure remains an unvalidated hypothesis.
-* The working role concept is **Director of Strategic Growth & Partnerships**, subject to refinement after the strategy clarifies the required mandate.
+- The project will be framed as an institutional growth strategy prepared from a senior business-development consultant's perspective.
+- The strategy will demonstrate the need for dedicated growth ownership without reading as a disguised job application.
+- The standard 36-credit Christian MBA is the lead MBA pathway; competency-based delivery remains phased development work unless its status changes.
+- Experiential learning should initially be piloted within approved programs before Kingswood attempts multiple large structural changes.
+- Amplify should be developed as an academic, recruitment, partnership, and community anchor for Spring 2027.
+- Recruitment language must distinguish available, proposed, and future offerings.
+- The $6 million recurring-revenue figure remains an unvalidated hypothesis.
+- The working role concept is **Director of Strategic Growth & Partnerships**, subject to refinement after the strategy clarifies the required mandate.
+- The strategy must explicitly inventory non-tuition revenue opportunities rather than allowing the project to become primarily an academic-program strategy.
+- Summer residence/accommodation rentals, including possible hotel/travel-platform listings, are now captured as an **exploratory revenue stream requiring a feasibility and pilot business case** before recommendation.
+- The three-year BA remains **proposed, not approved**.
 
 ---
 
 ## 14. Project Status
 
-**Last updated:** September 8, 2026
-**Current phase:** Source consolidation and strategic architecture
-**Completed:** Strategic thesis, three-pillar structure, consultant framing, role-positioning approach, and project guardrails
-**In progress:** Jeff is combining and adding the individual Kingswood proposals
-**Next step:** Inventory the complete source set and classify each item as confirmed, proposed, exploratory, hypothesis, or retired
-**Next major output:** Integrated consultant-grade Kingswood University Growth Strategy
+**Last updated:** September 9, 2026  
+**Current phase:** Strategic inventory, source consolidation, and gap analysis  
+**Completed:** Strategic thesis, three-pillar structure, consultant framing, role-positioning approach, project guardrails, repository inventory, initial academic initiative portfolio, revenue-stream register, missing-source list, and initial prioritization hypothesis  
+**New working file:** `Kingswood_Strategic_Inventory.md`  
+**In progress:** Reconcile the initiative/revenue inventory against the full source documents and distinguish verified evidence from prior-source context  
+**Known source-access limitation:** The current GitHub connector can verify the repository tree and read Markdown but is not reliably decoding binary DOCX/XLSX/PDF content. Binary-source claims must therefore remain content-verification pending until extracted through an accessible source workflow.  
+**Next step:** Add/locate missing strategic source files (especially summer accommodation, Revenue Generation Summary/Presidency platform, Amplify, Upward Sports, Festival of Lights written proposal, Organizational Leadership, Outdoor Adventure, and current institutional data) and then complete an evidence-backed initiative scorecard.  
+**Next major output:** Integrated consultant-grade Kingswood University Growth Strategy with prioritized business cases and three-year roadmap  
 
 ### Open questions to resolve from the source files
 
-* Which programs and initiatives have formal approval?
-* What are the president's and Academic Cabinet's current priorities?
-* What decision authority and budget exist for Spring 2027 Amplify?
-* Which initiatives have named owners, deadlines, or committed resources?
-* What verified enrolment, conversion, retention, financial, and capacity data are available?
-* Which proposals should be piloted, deferred, combined, or retired?
-* What title, reporting line, mandate, and success measures would make the growth role institutionally credible?
+- Which programs and initiatives have formal approval?
+- What are the president's and Academic Cabinet's current priorities?
+- What decision authority and budget exist for Spring 2027 Amplify?
+- Which initiatives have named owners, deadlines, or committed resources?
+- What verified enrolment, conversion, retention, financial, and capacity data are available?
+- Which proposals should be piloted, deferred, combined, or retired?
+- What title, reporting line, mandate, and success measures would make the growth role institutionally credible?
+- What is the realistic contribution-margin potential of summer accommodation and other campus-asset revenue streams?
 
 Update this section at the end of every working session so the project can resume without reconstructing prior decisions.
