@@ -19,7 +19,7 @@ As of October 1, 2026, the repository contains 26 files: the manifest, 4 Tier 1 
 | `Kingswood_Business_Development_Prioritization.md` | 1 | Ranked 30-initiative portfolio, BD mandate, 2031 vision, 90-day agenda (Sept 14, 2026) | All |
 | `Kingswood_Strategic_Inventory.md` | 1 | This file: source inventory, revenue-stream register, gap analysis, decision register | - |
 | `Kingswood_Data_Request_Tracker.md` | 1 | Dated, sourced log of institutional data requested and received (created Oct 1, 2026) | All |
-| `Kingswood_Master_Strategy.md` | 2 | Earlier strategy spine: North Star, pillars, 2029 outcomes, $6M hypothesis | - |
+| `Kingswood_Master_Strategy.md` | 2 | Current presidential synthesis: 2031 vision, first priorities, campus activation, growth mandate and 2026–2029 roadmap | - |
 | `Year_Round_Campus_Activation_Strategy.md` | 2 | Campus-as-platform thesis (Sept 9, 2026) | 1, 3, 5, 9 |
 | `Kingswood Revenue Report.md` | 2 | Revenue Generation Report Vol 1.1 (Dec 27, 2024): comparable-institution revenue research | - |
 | `Business revenue-workplace training.md` | 2 | Campus-enterprise / Bethany-model assessment, Sussex-area evidence (Sept 10, 2026) | 11 |
@@ -292,3 +292,36 @@ The most important immediate synthesis task is now to ensure that the **non-tuit
 **Phase:** Evidence validation and integrated strategy drafting  
 **Completed:** Repo inventory; academic initiative portfolio; revenue-stream register; gap analysis (Sept 9, 2026). Refresh against the Prioritization file and README Sections 13-14: repository inventory, Section 5 pointer, decision register, and source gaps updated; data request tracker created (Oct 1, 2026).  
 **Next major task:** Collect verified institutional data through `Kingswood_Data_Request_Tracker.md`, replace provisional Prioritization scores, and select the first three pilots.
+
+
+## 11. Executive synthesis revision October 1 2026
+
+**Deliverable:** Updated the existing `Kingswood_Master_Strategy.md` rather than creating a competing master. A search of repository filenames, available Library results, and prior context did not identify a separate completed executive memo. The previous master remains available in Git history.
+
+**Source map:**
+
+| Source | Contribution to executive synthesis |
+|---|---|
+| Previous `Kingswood_Master_Strategy.md` | North Star; Christian formation; applied education; campus assets; financial hypothesis |
+| `Kingswood_Business_Development_Prioritization.md` | Top-three order; 2031 vision; ownership boundaries; 90-day agenda; deferred structural investments |
+| `Year_Round_Campus_Activation_Strategy.md` | Seasonal offers; visitor audiences; shared booking/service model; return beyond visitor volume |
+| `Business revenue-workplace training.md` | Supervised student employment; enterprise sequencing; separate wages, savings and distributable cash |
+| `Summer_Accommodation_Source_Note.md` | Existing summer-rental concept; operational and financial evidence still required |
+| `BBAM-Project based.md` | Ministry projects and portfolios as a parallel application of experiential education |
+| Jeff's October 1 written instructions and account of Rick's email | BA naming and track framing; AI across business classes; portfolios; year-end networking/pitches; exclusions; executive audience |
+
+**Decision and assumption updates:**
+
+| Item | Status | Treatment |
+|---|---|---|
+| Executive format and scope | Direction from Jeff | Institutional strategy with one-page opening, followed by priorities, campus model and execution plan |
+| Current undergraduate terminology | Direction from Jeff | BA in Business Administration; three tracks as specified; formal track descriptions remain an academic check |
+| Project-based source identity | Confirmed source reading | BBAM file describes Ministry, so avoid describing it as an operating Business degree |
+| Student showcase and larger public conference | Proposed reconciliation | Cost a manageable academic showcase; retain 2028+ for larger event unless leadership revises timing |
+| Initial growth assignment | Proposed | Jeff offers to coordinate a 90-day mandate; no authority or resources assumed |
+| Ranking and financial ambition | Hypothesis retained | Preserve first three priorities provisionally and the $6M/December 2029 hypothesis without a new forecast |
+| Presidential brief exclusions | Direction from Jeff | Do not carry shortened-degree, certificate-ladder or former conference-brand language into the brief |
+
+**Validation status:** No institutional data was received or requested from third parties in this revision. The data request tracker remains unchanged. No pilots, event dates, program approvals, or staffing commitments were authorized through drafting.
+
+**Next action:** Jeff reviews the brief; leadership considers the mandate and data access; replace provisional assumptions with sourced evidence.

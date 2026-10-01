@@ -322,15 +322,28 @@ As of **October 1, 2026**:
 
 ---
 
+### Presidential brief revision October 1 2026
+
+The current executive synthesis is [Kingswood_Master_Strategy.md](Kingswood_Master_Strategy.md). It combines the master strategy, ranked business-development priorities, and year-round campus activation into a concise presidential brief with a 2031 vision and 2026–2029 roadmap.
+
+Jeff's direct October 1 instructions govern this revision: use BA in Business Administration with the Management, Sports and Recreation Management, and Entrepreneurship and Innovation track framing; foreground applied work, AI in every business class, portfolios and professional networks; use a generic year-end conference description. Exclude the previously discussed shortened-degree and certificate-ladder proposals from the presidential brief.
+
+The source file `BBAM-Project based.md` is a ministry-learning proposal. It supports cross-program application of project-based learning and is not evidence of a separate operating Business degree.
+
+A modest student pitch/project showcase is a new proposed implementation option, subject to capacity and budget approval. The larger public conference remains deferred to 2028 or later unless leadership changes that timetable. The 90-day assignment and pilot choices are recommendations to Rick, not approved mandates.
+
+The earlier master is preserved in Git history. Detailed source files retain their historical role; current presidential terminology and the above distinctions govern the executive synthesis.
+
 ## 14. Project Status
 
 **Last updated:** October 1, 2026  
-**Current phase:** Source consolidation complete; moving to evidence validation and integrated strategy drafting  
+**Current phase:** Executive synthesis drafted for Jeff's review; institutional validation and leadership authorization remain outstanding  
 **Completed:** Strategic thesis, three-pillar structure, consultant framing, role-positioning approach, project guardrails, repository inventory, revenue-stream register, gap analysis, conversion of all binary sources to Markdown (Sept 9), campus-activation strategy, campus-enterprise assessment, weighted 30-initiative scorecard with ownership filter, 2031 vision, and 90-day agenda (Sept 14), `_MANIFEST.md`, Strategic Inventory refresh, and data request tracker (Oct 1)  
 **Resolved since last status:** Planning horizon (2031 vision; 2026-2029 roadmap); $6M retained as hypothesis pending rebase; Strategic Inventory reconciled with the Prioritization file  
 **In progress:** Collecting verified institutional data through `Kingswood_Data_Request_Tracker.md`  
-**Next step:** Confirm the Revenue Report question below, then replace provisional scores with verified institutional data and select the first three pilots  
-**Next major output:** Integrated consultant-grade Kingswood University Growth Strategy with prioritized business cases and three-year roadmap  
+**Next step:** Jeff reviews the executive brief before circulation. Seek leadership direction on the proposed 90-day mandate, then collect verified data and select no more than three pilots. Resolve the Revenue Report source question in parallel  
+**Latest output:** Updated `Kingswood_Master_Strategy.md` with a presidential executive brief, priority portfolio, year-round campus model, 90-day mandate recommendation, and three-year roadmap. Editable Word edition prepared for review.
+**Next major output:** Leadership-reviewed strategy with validated pilot business cases and agreed performance targets  
 
 ### Open conflicts requiring a decision
 

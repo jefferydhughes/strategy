@@ -1,264 +1,141 @@
-**KINGSWOOD UNIVERSITY**
+# Kingswood University Master Strategy
+## Executive brief for the president
 
-Master Strategy
+**To:** Rick Christman, President  
+**From:** Jeff Hughes  
+**Date:** October 1, 2026  
+**Planning horizon:** 2031 vision with a 2026–2029 implementation roadmap  
+**For discussion and direction**
 
-A living model for academic growth, student formation, community engagement, and sustainable revenue
+Rick, your call for students to develop their craft and influence culture gives us a clear starting point. I recommend connecting that educational ambition to a wider growth strategy: stronger existing programs, a campus that serves people throughout the year, and partnerships that create practical learning and sustainable income.
 
-**North Star** Build a differentiated Christian university where students learn by doing, programs stack across life stages, the campus serves its community, and mission-aligned growth funds the next chapter.
+**The opportunity is to make Kingswood’s education, campus, and relationships work together to strengthen its mission and reduce pressure on tuition.** A conference can generate room and meal revenue, give students responsibility for real work, introduce employers to our graduates, and bring prospective students onto campus. We should design and manage those connections deliberately.
 
-Prepared from Jeff Hughes's Kingswood planning work  
-Presidential platform • School of Business • Sports ministry • Festival of Lights
+### The direction for 2031
 
-# How to Use This Document
+Kingswood can become known for Christian graduates who demonstrate their craft, use current tools responsibly, and enter their vocations with experience and professional relationships. Its campus can serve churches, schools, families, employers, and visitors in every season. Viable enterprises and partnerships can support student earnings and contribute to the cost of education.
 
-This is the strategy spine for future Kingswood work. It separates enduring direction from initiatives, metrics, assumptions, and decisions so new ideas can be added without losing the whole.
+**North Star:** Build a differentiated Christian university where students learn by doing, programs stack across life stages, the campus serves its community, and mission-aligned growth funds the next chapter.
 
-| **Layer**            | **Question it answers**                         | **Update rhythm** |
-| -------------------- | ----------------------------------------------- | ----------------- |
-| North Star           | What future are we building?                    | Rarely            |
-| Strategic pillars    | Where must Kingswood win?                       | Annual            |
-| Initiative portfolio | What are we doing now?                          | Monthly           |
-| Scorecard            | Is the strategy working?                        | Monthly/term      |
-| Decision log         | What changed, why, and who approved it?         | Whenever decided  |
-| Evidence archive     | What proposals and assets support the strategy? | Ongoing           |
+### Begin with three opportunities
 
-## Current Evidence Base
+The current prioritization identifies **summer accommodation**, **Business and MBA enrolment growth**, and **conferences, retreats, and group accommodation** as the strongest starting points. These use existing programs, facilities, and relationships. Their ranking is provisional; the first task is to establish demand, available capacity, delivery costs, and accountable operators.
 
-- Presidential application platform (conversation record, November 2024)
-- Institutional recurring-revenue roadmap to December 2029 (conversation record, December 2024)
-- Kingswood School of Business program architecture and concept website
-- Master of Organizational Leadership proposal
-- Upward/Kingswood Campus Ministry Sports Initiative and Year-1 pro forma
-- Kingswood Festival of Lights concept and drive-through map
+Alongside this commercial work, the School of Business can demonstrate the educational model: students build and run businesses, apply AI in every business class, develop portfolios, and build a network culminating in a year-end pitch and project showcase. Ministry and other programs can adapt the same principles to their disciplines.
 
-**Evidence rule** Items recovered from completed proposals are marked Confirmed. Strategic synthesis is marked Proposed. Numbers requiring current validation are marked Validate.
+### Give the work a clear mandate
 
-# 1\. Strategic Thesis
+I propose a **90-day Strategic Growth and Partnerships assignment**, with an executive sponsor, agreed time allocation, access to institutional data, and no more than three selected pilots. I would welcome responsibility for coordinating this work with the relevant leaders.
 
-Kingswood's strongest growth opportunity is not to become a smaller copy of a conventional university. It is to become unusually clear about whom it serves and how learning, Christian formation, practical work, community life, and revenue generation reinforce one another.
+My contribution would be to turn the portfolio into tested offers, partner commitments, financial cases, and an executable roadmap. That draws directly on my work in education, entrepreneurship, franchising, marketing, AI, and program development.
 
-| **Distinctive choice** | **Strategic expression**                                                                                             |
-| ---------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| Faith + work           | Treat business, sport, leadership, ministry, and entrepreneurship as connected expressions of vocation.              |
-| Learning by doing      | Make internships, practicums, ventures, events, and community programs part of the curriculum.                       |
-| Stackable access       | Let learners enter through certificates and accelerators, then progress into undergraduate and graduate credentials. |
-| Campus as platform     | Use people, land, facilities, kitchens, fields, and events to serve the region and generate revenue.                 |
-| Small-school advantage | Compete on access to faculty, belonging, speed, mentorship, and meaningful responsibility.                           |
+**Decision requested:** Authorize the 90-day validation mandate. At its conclusion, leadership would receive a costed 12-month plan and clear recommendations on what to launch, expand, revise, or stop. This creates a practical basis for deciding the longer-term growth function.
 
-# 2\. North Star and 2029 Outcomes
+---
 
-**2029 outcome** Kingswood is known as a practical, Christ-centred leadership university with a thriving School of Business, experiential student life, visible community programs, and a diversified economic engine.
+# Strengthen education and start with existing capacity
 
-## Outcome themes
+### Connect academic growth with demonstrated student capability
 
-- Enrollment grows through differentiated academic pathways and stronger conversion.
-- Every student can connect classroom learning to meaningful work, service, or venture creation.
-- Community-facing sports and events make the campus a regional destination.
-- New earned-revenue streams reduce dependence on tuition alone.
-- Programs and partnerships are scalable without weakening mission or student care.
+The first strategic pillar is distinctive education that attracts students and prepares them to contribute. The current BA in Business Administration and the operating MBA provide the immediate foundation. Improve their positioning, recruitment follow-up, employer and church referral channels, and retention before assuming that additional offerings will produce growth.
 
-## Historic target to validate
+Within the BA, organize the undergraduate business story around **Management**, **Sports and Recreation Management**, and **Entrepreneurship and Innovation**, subject to academic confirmation of track descriptions. The live learning lab connects coursework to customer research, student ventures, client assignments, campus operations, and community needs.
 
-An earlier institutional plan targeted \$6 million in yearly recurring revenue by December 2029. Retain this as an ambition, but rebase it against current enrollment, capacity, capital, and governance before treating it as an approved target.
+AI should be used purposefully in every business class, with students checking outputs and defending their decisions. Portfolios should show the problem addressed, each student’s contribution, results, and professional judgment. The project-based ministry proposal offers a parallel application through church projects, outreach, and ministry creation. Academic leaders retain responsibility for outcomes and assessment.
 
-# 3\. The Seven Strategic Pillars
+### Select a small first portfolio
 
-| **Pillar**                   | **Purpose**                                                              | **Anchor initiatives**                                                                   |
-| ---------------------------- | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
-| 1\. Academic differentiation | Create clear, career-relevant reasons to choose Kingswood.               | Accelerated degrees; stackable certificates; MBA/MOL; competency-based pathways.         |
-| 2\. Student formation        | Improve belonging, persistence, calling, and employability.              | Enhanced first year; mentoring; work-study; internships; career certifications.          |
-| 3\. School of Business       | Build the flagship platform for practical, mission-driven leadership.    | Program ladder; Innovation Labs; Amplify Summit; online community.                       |
-| 4\. Sport + recreation       | Use sport as ministry, practicum, recruitment, and community engagement. | Upward basketball; soccer; flag football; summer camps.                                  |
-| 5\. Community destination    | Invite the region onto campus through memorable public experiences.      | Festival of Lights; carol sing; skating/seasonal activation; community partnerships.     |
-| 6\. Revenue + assets         | Create sustainable, diversified income from institutional capabilities.  | Three business acquisitions; kitchen services; naming rights; land/facility development. |
-| 7\. Reach + partnerships     | Expand the recruitment and relationship network.                         | International recruitment; churches; employers; developers; sponsors; alumni.            |
+| Priority | Why it comes first | Evidence required before launch |
+| --- | --- | --- |
+| 1 Summer accommodation | Test the earning potential of residences during available summer periods and create student work | Rentable rooms and dates; buyer demand; pricing; cleaning, linens, staffing and booking costs; net contribution |
+| 2 Business and MBA enrolment growth | Improve the economics of programs already operating | Enquiries, applications, enrolments, retention, net tuition, teaching capacity and cost per additional student |
+| 3 Conferences and retreats | Package rooms, meeting spaces and food service for churches, employers and groups | Customer interviews; available dates; service packages; operating responsibilities; realistic costs and booking commitments |
 
-# 4\. School of Business Platform
+Accommodation and conferences would share one capacity calendar and hospitality operation. Their room nights and revenue must be counted once. Employer and church partnerships support these priorities through referrals, group bookings, sponsored study, and training contracts.
 
-Positioning: "Build what matters." The School of Business combines biblical worldview, practical application, personal faculty access, and industry-relevant capability.
+### Build the next stage from evidence
 
-| **Pathway**                      | **Working design**                                                                                                         | **Role in the system**                                                   |
-| -------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| Certificates                     | Up to 12 months; \$3,000 or \$360/month; 3–4 courses.                                                                      | Low-risk entry; workforce relevance; potential transfer credit.          |
-| Marketplace Ministry Accelerator | 9-month hybrid cohort.                                                                                                     | Launch and scale mission-aligned ventures; bridge business and ministry. |
-| B.A. pathway                     | 3-year accelerated Innovation & Sustainability concept; current site still uses B.A. Business Management pending approval. | Undergraduate flagship; practical labs and venture-building.             |
-| MOL/M.A.                         | 12-month leadership pathway; separate 30-credit proposal exists.                                                           | Management, organizational health, succession, and mentorship.           |
-| MBA                              | 36 credits; 12-month, 20-month, and planned competency-based options.                                                      | Executive-level strategy, analysis, leadership, and applied capstone.    |
+Once the first business cases are underway, validate workplace training delivered through live online classes, a sponsored Business Lab, student enterprises, camps, Upward Sports, and a modest Festival of Lights. Advance each on its own demand, mission value, workload, and economics.
 
-## Program ecosystem
+The nine-month Marketplace Ministry Accelerator would combine live online learning, coaching, venture testing, and a final pitch. MA in Organizational Leadership development should have a distinct audience and clear relationship to the MBA; its current approval and delivery status needs confirmation.
 
-- Innovation Labs: students design, test, and launch ventures.
-- Amplify Mission-Driven Entrepreneurship Summit: three days in Sussex with keynotes, pitch events, accelerators, networking, worship, and investment-fund reporting.
-- Amplify Online Community: weekly training, masterminds, mentoring, Bible studies, resources, and alumni-to-student connections.
-- Career credentials: embed employer-recognized certifications where academically appropriate.
-- Accreditation decision: evaluate ACBSP educational membership (historically \$2,500/year), broader accreditation value, and implications for MBA positioning.
+A distinct School of Business structure, mixed-use facilities, business acquisitions, and housing-production partnerships belong to later development. Each needs a separate case before resources are committed. The educational improvements can begin within existing programs.
 
-**Immediate decision** Lock the approved undergraduate degree name and architecture before marketing the accelerated Innovation & Sustainability concept. The concept must not outrun governance approval.
+---
 
-# 5\. Student Experience Model
+# Make the campus useful in every season
 
-| **Stage**    | **Student promise**                                                              | **Possible mechanisms**                                                                |
-| ------------ | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| First year   | I belong, know what I am building toward, and can see a path to meaningful work. | Cohort experience; mentor; vocation map; early practicum; foundational credential.     |
-| Middle years | I am trusted with real responsibility and can prove what I can do.               | Four hours/week practicum; client projects; student ventures; sports/event operations. |
-| Final year   | I graduate with evidence, relationships, and a launch plan.                      | Capstone; portfolio; internship; certification; employer/alumni introductions.         |
-| Alumni       | Kingswood remains a practical leadership network.                                | Amplify community; mentoring; ventures; annual summit; continuing certificates.        |
-
-Presidential-platform ideas to retain: accelerated degrees, work-study, a stronger first-year experience, community engagement, revenue generation, career-focused certifications, expanded offerings, and athletics.
-
-# 6\. Kingswood Sports and Community Ministry
-
-The sports initiative is more than recreation: it can simultaneously serve families, create ministry contact, provide student practicum experience, generate modest surplus, and strengthen recruitment visibility.
-
-| **Program**       | **Timing / scale**                                 | **Known operating assumptions**                                                          |
-| ----------------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| Upward basketball | January 2027; 12 weeks; 60 players; 6 teams of 10. | \$149/player; fun and noncompetitive; coach-limited waitlist; explicit gospel component. |
-| Soccer            | Spring 2027.                                       | Start after basketball learning cycle; retain community-ministry model.                  |
-| Flag football     | Fall 2028.                                         | Later expansion; confirm demand and field capacity.                                      |
-| Summer camps      | Four weeks; 30 participants/week; \$199/week.      | Use campus and student leadership; confirm staffing and safeguarding.                    |
-
-## Governance and economics
-
-- All staff and volunteers require criminal-record checks and appropriate safeguarding.
-- Practicum spans all B.A. years at approximately four hours per week, with a proposed profit-share component.
-- The initiative begins inside the Business Department and functions as campus ministry.
-- Historical pro forma: \$8,940 gross revenue per 60-player sport, about \$6,000 direct cost, and approximately \$11,500 Year-1 projected surplus across the initial portfolio. Validate all costs and Upward fees before approval.
-
-# 7\. Festival of Lights
-
-The Festival of Lights can become a signature community event: a drive-through campus experience that showcases Kingswood students, creates traditions, supports donor/community relationships, and activates the campus in December.
-
-| **Element**       | **Current concept**                                                                                                         |
-| ----------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| Guest journey     | Drive-through mapped route with numbered attractions, entrance signage, parking, Christmas scenes, and sports-court zones.  |
-| Music             | Tune to 89.3 FM for Christmas carols performed by Kingswood students and faculty.                                           |
-| Signature moments | A 25-metre "tallest tree in the province" concept; bonfire; Dunsters donuts; hot chocolate.                                 |
-| Programming       | Carol sing planned for December 16; pond/field area acknowledged, with skating unlikely early in the season.                |
-| Strategic value   | Community goodwill, student performance, sponsorship, donor cultivation, recruitment exposure, and repeat annual tradition. |
-
-## Decisions before launch
-
-- Audience capacity, traffic flow, accessibility, emergency plan, insurance, security, and weather contingencies.
-- Free, ticketed, donation-based, or sponsor-funded economic model.
-- Lighting/electrical scope, installation labour, teardown, storage, and multi-year asset plan.
-- Municipal, neighbour, and public-safety coordination.
-- Sponsor inventory and ownership of programming, marketing, operations, and volunteer management.
-
-# 8\. Revenue and Asset Strategy
-
-Earlier planning treated institutional assets as an economic platform. The ideas remain useful, but each should pass a mission, market, capacity, risk, and return screen before launch.
-
-| **Opportunity**                            | **Strategic logic**                                       | **Gate**                                                                          |
-| ------------------------------------------ | --------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| Acquire three income-generating businesses | Create recurring revenue and experiential learning sites. | Investment thesis, governance, management capacity, due diligence, return hurdle. |
-| Kitchen services / contracts               | Monetize existing capability and provide student work.    | Bid economics, food safety, staffing, equipment capacity.                         |
-| School naming rights                       | Fund growth while deepening a strategic partnership.      | Gift policy, brand fit, term, recognition, restrictions.                          |
-| Land and sports fields                     | Enable programs, rentals, events, and future development. | Demand, zoning, capital plan, utilization, maintenance.                           |
-| Property-development partnerships          | Unlock campus value without carrying all execution risk.  | Mission alignment, control, deal structure, long-term economics.                  |
-| International recruitment                  | Diversify enrollment and global reach.                    | Market priority, agent controls, student support, visa and housing capacity.      |
-
-# 9\. Portfolio Roadmap
-
-| **Horizon** | **Primary work**                                                                                                                        | **Exit criteria**                                                                                  |
-| ----------- | --------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| 0–90 days   | Confirm governance sponsor; rebase data; lock School of Business architecture; approve sports pilot; commission Festival feasibility.   | Named owners, validated assumptions, baseline scorecard, decisions recorded.                       |
-| 2026–27     | Launch basketball and camps; finalize/market approved academic offers; pilot stronger first-year/practicum model; decide Festival path. | Program-quality evidence, positive unit economics, enrollment indicators, safeguarding compliance. |
-| 2027–28     | Add soccer; develop competency-based MBA if approved; scale certificates/community; test one asset-revenue initiative.                  | Repeatable operations, faculty capacity, partner demand, measured contribution margin.             |
-| 2028–29     | Add flag football; scale proven pathways/events; execute facilities or acquisition only where gates are met.                            | Diversified recurring revenue trajectory and board-approved 2030 plan.                             |
-
-# 10\. Master Scorecard
-
-| **Domain**          | **Core measures**                                                                          | **Baseline / target**                                  |
-| ------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------ |
-| Mission + formation | Student spiritual-development indicators; service participation; mentor engagement.        | Set baseline; define evidence beyond activity counts.  |
-| Enrollment          | Inquiries, applications, deposits, starts, yield, retention by program.                    | Set current funnel; term and annual targets.           |
-| Academic quality    | Completion, learning outcomes, capstone quality, certification attainment.                 | Program-specific baselines.                            |
-| Career + practice   | Practicum hours, internships, portfolios, placement, ventures launched.                    | Define within each program.                            |
-| Community reach     | Sports participants, event attendance, repeat families, partners, volunteer hours.         | Basketball pilot: 60 players.                          |
-| Economics           | Net tuition, contribution margin, earned revenue, donor/sponsor income, cash requirements. | Rebase; test historic \$6M recurring-revenue ambition. |
-| Capacity + risk     | Faculty load, staff hours, facilities utilization, incidents, compliance completion.       | Establish operating thresholds before scaling.         |
-
-# 11\. Decision Framework
-
-Every new initiative should answer the same seven questions before resources are committed:
-
-1. Mission: Does it advance Kingswood's Christian purpose?
-2. Student value: Does it improve learning, formation, belonging, or launch outcomes?
-3. Market: Is there credible demand from a defined audience?
-4. Economics: What are revenue, direct cost, contribution, cash timing, and downside?
-5. Capacity: Who owns it, and what must stop or change to make room?
-6. Risk: What academic, legal, safety, reputational, and execution risks exist?
-7. Evidence: What is the smallest pilot, and what metric determines scale, revise, or stop?
-
-# 12\. Governance and Ownership
-
-| **Forum**                 | **Purpose**                                                                  | **Suggested cadence**  |
-| ------------------------- | ---------------------------------------------------------------------------- | ---------------------- |
-| Executive sponsor review  | Resolve cross-university priorities, capital, policy, and risk.              | Monthly                |
-| Strategy portfolio review | Review pillar scorecards and initiative health.                              | Monthly                |
-| Academic governance       | Approve programs, credentials, learning outcomes, and accreditation choices. | By governance calendar |
-| Initiative working teams  | Operate pilots, surface blockers, update forecasts.                          | Weekly/biweekly        |
-| Board strategy review     | Approve major targets, capital, acquisitions, and institutional direction.   | Quarterly              |
-
-Named stakeholder from prior proposals: President Rick Christman. Other owners should be assigned by role rather than assumed in this document.
-
-# 13\. Active Decision and Assumption Register
-
-| **Item**                        | **Current status**                                                                                       | **Next decision**                                                                   |
-| ------------------------------- | -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| Undergraduate business identity | Concept proposes B.A. Innovation & Sustainability; public/current use has been B.A. Business Management. | Choose approved name, curriculum, and launch sequence.                              |
-| Graduate architecture           | MOL/M.A. and MBA concepts overlap in leadership territory.                                               | Clarify ladder, audience, credits, Bible/ministry requirements, and transfer rules. |
-| ACBSP                           | Educational membership discussed; broader accreditation unresolved.                                      | Determine strategic value, cost, timeline, and ownership.                           |
-| Sports practicum profit share   | Proposed, not confirmed.                                                                                 | Confirm academic, payroll, legal, and financial treatment.                          |
-| Festival economics              | Concept and map exist; operating model not locked.                                                       | Choose date, scope, price/donation/sponsor model, and go/no-go owner.               |
-| \$6M recurring revenue by 2029  | Historic planning target; current base unknown.                                                          | Rebase target and define revenue categories.                                        |
-| Business acquisitions           | Strategic idea, not an authorization.                                                                    | Create investment policy and first screening thesis.                                |
-
-# 14\. 30-Day Strategy Reset
-
-- Week 1 — appoint an executive sponsor and strategy owner; validate the retrieved source list.
-- Week 1 — capture current enrollment, retention, program contribution, faculty capacity, facilities, and community-program baselines.
-- Week 2 — hold a two-hour strategy session to confirm the North Star, pillars, 2029 outcomes, and non-negotiables.
-- Week 2 — resolve the undergraduate and graduate School of Business architecture questions.
-- Week 3 — complete pilot charters for basketball and the Festival of Lights, including owner, economics, safeguards, and success gates.
-- Week 3 — translate the \$6M ambition into a revenue bridge or replace it with a defensible target.
-- Week 4 — publish the one-page scorecard, initiative portfolio, and decision log; schedule monthly reviews.
-
-# 15\. Living Update Protocol
-
-**At the end of every strategy session** Update the date, initiative statuses, scorecard, decisions, assumptions, and next 30-day priorities. Never rewrite history: move superseded decisions to the log with a short reason.
-
-| **Status**  | **Meaning**                                                   |
-| ----------- | ------------------------------------------------------------- |
-| Idea        | Worth exploring; no resources committed.                      |
-| Discovery   | Owner is validating demand, feasibility, economics, and risk. |
-| Proposed    | Business/academic case is ready for decision.                 |
-| Approved    | Authorized, owned, resourced, and scheduled.                  |
-| Pilot       | Live with explicit measures and review date.                  |
-| Scale       | Evidence supports expansion.                                  |
-| Hold / Stop | Paused or ended; reason recorded.                             |
-
-# Appendix A — Retrieved Chat Threads to Move
-
-Create a ChatGPT Project named "Kingswood Master Strategy" and move the following known conversations into it. Chat titles may vary slightly; search using the phrases shown.
-
-| **Search phrase / likely chat**                        | **Material to preserve**                                                                                                            |
-| ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
-| Kingswood president role / presidential application    | Platform: accelerated degrees, work-study, first-year experience, community engagement, revenue, credentials, offerings, athletics. |
-| Kingswood implementation plan / \$6M recurring revenue | 2029 revenue plan, acquisitions, land/fields, developers, kitchen services, international recruitment, naming rights, facilities.   |
-| Design Course Outcomes / Leading With Systems BUS422   | Business curriculum design and systems-thinking course work.                                                                        |
-| Kingswood Business Landing Page                        | School of Business positioning, degree pathways, website concept, quiz, and email to Rick.                                          |
-| Kingswood MBA / MOL proposal                           | One-year 36-credit MBA, competency-based pathway, MOL, approvals, accreditation.                                                    |
-| Upward Sports / Kingswood sports                       | Basketball, soccer, flag football, camps, practicum, ministry, economics.                                                           |
-| Christmas Festival / Festival of Lights                | Map, drive-through experience, music, bonfire, donuts, hot chocolate, carol sing.                                                   |
-| Kingswood 0 / Kingswood Zero                           | No exact match recovered; inspect sidebar for a variant title and move it if it contains institutional strategy.                    |
-
-# Appendix B — Artifact Index
-
-| **Artifact**                                     | **Role**                                                          |
-| ------------------------------------------------ | ----------------------------------------------------------------- |
-| Kingswood School of Business.docx                | Source architecture for stackable programs and Amplify ecosystem. |
-| index(1).html                                    | School of Business concept website.                               |
-| Master of Organizational Leadership Proposal.pdf | Graduate-program source proposal.                                 |
-| Kingswood Festival of Lights Map.png             | Visual concept for the community event.                           |
-| Kingswood Master Strategy.docx                   | This living synthesis and operating model.                        |
+The second strategic pillar is a coordinated campus and partnership portfolio. **Every season should offer a reason to visit Kingswood**, with each activity assigned a primary purpose: earned income, recruitment, community service, or a defined partnership outcome.
+
+### Build an annual rhythm around existing assets
+
+| Season | Illustrative offers to validate | Institutional value |
+| --- | --- | --- |
+| Fall | Employer workshops, church retreats, leadership gatherings, school visits and recreation | Training and rental income; professional relationships; program discovery |
+| Winter and Christmas | Festival of Lights, carol programming, school concerts in the chapel and suitable indoor activities | Community hospitality; sponsorship; repeat family and school relationships |
+| Spring | Student pitches and project presentations, church gatherings, school graduations and recreation | Graduate opportunities; recruitment; venue income; ministry partnerships |
+| Summer | Residence accommodation, conferences, retreats, camps and outdoor programming | Guest nights and group bookings; student employment; productive use of facilities |
+
+These are proposed uses, not a confirmed event schedule. The chapel, residences, classrooms, grounds, recreation spaces, and available dining services form one portfolio. Teaching, residence life, existing contracts, and maintenance determine what can be offered and when.
+
+A church retreat illustrates the model. One coordinated booking could include meeting space, accommodation, and meals. Students could undertake supervised event, hospitality, communication, or ministry work. The relationship could continue through leadership training, appropriate program introductions, and a repeat booking.
+
+### Make the year end conference a place of opportunity
+
+A year-end conference should become a centerpiece of the School of Business network, bringing employers, alumni, ministry leaders, entrepreneurs, and students together around useful work. Students would prepare portfolios and pitches, arrange relevant conversations, and follow up on introductions afterward.
+
+For early implementation, I recommend costing a manageable student pitch and project showcase within the academic calendar. Expansion into a larger public conference remains a 2028-or-later proposition unless leadership approves a revised timetable. This preserves the educational purpose while matching event ambition to staffing, partner demand, and funding.
+
+### Operate the portfolio as a service
+
+The campus model needs one availability calendar, clear packages and pricing, a booking contact, reliable delivery, and financial reporting by activity. Business development would validate customers and assemble offers; Finance and Operations would confirm economics and service capacity. Admissions would own appropriate recruitment follow-up, and Advancement would coordinate sponsorship and donor relationships.
+
+Some activities may justify modest margins because of their mission or recruitment value. That choice should be explicit, budgeted, and measured. Visitor volume alone is insufficient evidence of success.
+
+### Turn productive work into student opportunity
+
+Over time, professionally supervised campus services and enterprises could provide paid work and progressive responsibility. Hospitality, events, property services, and digital support are potential settings. Students could leave with work evidence, references, and portfolio projects.
+
+Affordability benefits must be reported separately: student wages, verified university savings, and cash available to support education. Wages and supervision are costs before calculating enterprise profit; restricted gifts and one-time sponsorships are distinct from recurring earned income.
+
+---
+
+# Establish ownership and earn the right to expand
+
+The third strategic pillar is a growth function that carries opportunities from discovery through approval, launch, and measurement. The current proposals cross departmental boundaries; someone needs responsibility for coordinating the whole opportunity.
+
+### Use a defined assignment to establish the function
+
+I propose leading an initial Strategic Growth and Partnerships assignment with an executive sponsor and an agreed scope. My responsibility would be customer discovery, partner development, business cases, launch coordination, and performance reporting.
+
+Academic Affairs would retain curriculum, standards, accreditation, and assessment. Admissions and Marketing would retain their enrolment responsibilities; Advancement would oversee donor relationships; Finance and Operations would approve economics and operating arrangements. Student Life would help shape student employment and protect the student experience.
+
+A permanent Director of Strategic Growth and Partnerships function could follow demonstrated results. Its mandate and reporting relationships should be established before deciding the final title or structure.
+
+### Deliver a decision at each stage
+
+| Period | Work and decision |
+| --- | --- |
+| Days 1–30 | Establish program and facility baselines; interview internal leaders and prospective customers; agree decision rights; select no more than three pilots |
+| Days 31–60 | Present cases covering customer, offer, price, volume, costs, contribution, cash needs, capacity and owner; obtain approval for the smallest viable tests |
+| Days 61–90 | Run the fastest approved tests and seek booking or partner commitments for seasonal offers; report results and a costed 12-month recommendation |
+
+For summer 2027 accommodation, success within 90 days means a credible operating case and evidence of demand; it does not require summer trading during that period.
+
+### Sequence growth through 2031
+
+**2026–2027:** Validate and improve Business/MBA conversion; prepare accommodation and conference pilots; test applied learning, AI, portfolios, and partner engagement within existing programs.
+
+**2027–2028:** Expand offers with demonstrated demand and contribution. Develop workplace training, supervised student enterprises, and accelerator activity where partners and delivery capacity support them.
+
+**2028–2029:** Consider broader conference programming, graduate expansion, sponsored facilities, and other larger commitments using evidence from the first operating cycles.
+
+**2030–2031:** Develop the institutional structure and asset portfolio that proven demand supports. A distinct School of Business remains a governance and accreditation hypothesis requiring formal study.
+
+### Measure the contribution to mission and sustainability
+
+Leadership should receive a concise monthly scorecard covering enrolment conversion and retention; contribution and cash requirements by offer; guest nights and repeat bookings; partner commitments; student earnings and work quality; portfolio and AI competence; and staff workload. Set targets after establishing baselines.
+
+The initial ranking weights revenue and tuition-offset potential most heavily, alongside speed, student and mission value, feasibility, evidence, and strategic fit. No new revenue forecast is justified yet. The earlier **$6 million annual recurring-revenue ambition by December 2029 remains an unvalidated hypothesis**, to be rebased rather than presented as a commitment.
+
+**The next conversation should settle the mandate, data access, and pilot-selection process.** With those decisions, I can bring leadership a focused set of opportunities with evidence, economics, responsible operators, and a clear recommendation.

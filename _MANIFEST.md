@@ -18,7 +18,7 @@
 
 | File | Role | Notes |
 |---|---|---|
-| `Kingswood_Master_Strategy.md` | Earlier strategy spine: North Star, pillars, 2029 outcomes, $6M hypothesis | Uses a 2029 horizon; Prioritization uses 2031. See open conflicts in README |
+| `Kingswood_Master_Strategy.md` | Current executive synthesis: presidential brief, prioritized growth, year-round campus, mandate and roadmap | Updated Oct 1, 2026; 2031 vision and 2026–2029 roadmap. Read for executive presentation; detailed rankings remain in Prioritization |
 | `Year_Round_Campus_Activation_Strategy.md` | Campus-as-platform thesis (Sept 9, 2026) | Proposed |
 | `Kingswood Revenue Report.md` | Revenue Generation Report, Vol 1.1 (Dec 27, 2024): comparable-institution revenue research | May satisfy the "Revenue Generation Summary" source gap; confirm |
 | `Business revenue-workplace training.md` | Campus-enterprise / Bethany-model assessment, Sussex-area evidence (Sept 10, 2026) | Exploratory; supports Prioritization rank 11 |
