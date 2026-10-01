@@ -96,7 +96,7 @@ Kingswood can use its campus, mission, relationships, and expertise as year-roun
 
 Relevant initiatives may include:
 
-- Spring 2027 Amplify Leadership Summit
+- Amplify Leadership Summit (deferred to 2028 or later; see Section 13)
 - Upward Sports and related student practicums
 - Festival of Lights and community events
 - Business accelerators and entrepreneur support
@@ -105,7 +105,7 @@ Relevant initiatives may include:
 - Business Lab and naming-rights opportunities
 - Mission-aligned sponsorships and donor relationships
 
-**Current strategic guardrail:** Amplify should initially be framed as a focused Kingswood academic, community, partnership, and recruitment experience—not an oversized standalone conference.
+**Current strategic guardrail:** Near-term Pillar 2 effort goes to low-capital asset pilots: summer accommodation, conferences, retreats, rentals, and short-form education. Amplify is deferred to 2028 or later and, when revisited, should be framed as a focused academic, community, partnership, and recruitment experience within the School of Business portfolio—not an oversized standalone conference.
 
 ### Pillar 3: Establish a Growth and Execution System
 
@@ -290,46 +290,68 @@ For every major revision:
 - Scorecard
 - Session status
 
-### Current control document
+### Current control documents
 
-- `Kingswood_Strategic_Inventory.md` - working source inventory, initiative portfolio, revenue-stream register, gap analysis, prioritization hypothesis, decision register and missing-source list.
+- `_MANIFEST.md` - read order and tier assignment for every file. Read first.
+- `Kingswood_Business_Development_Prioritization.md` - current ranked initiative portfolio, business-development mandate, 2031 vision, and 90-day agenda. Supersedes the prioritization hypothesis in the Strategic Inventory.
+- `Kingswood_Strategic_Inventory.md` - source inventory, revenue-stream register, gap analysis, and decision register. Requires refresh against the Prioritization file.
 
 ---
 
 ## 13. Current Working Decisions
 
-As of **September 9, 2026**:
+As of **October 1, 2026**:
 
 - The project will be framed as an institutional growth strategy prepared from a senior business-development consultant's perspective.
 - The strategy will demonstrate the need for dedicated growth ownership without reading as a disguised job application.
 - The standard 36-credit Christian MBA is the lead MBA pathway; competency-based delivery remains phased development work unless its status changes.
 - Experiential learning should initially be piloted within approved programs before Kingswood attempts multiple large structural changes.
-- Amplify should be developed as an academic, recruitment, partnership, and community anchor for Spring 2027.
+- Amplify is deferred to 2028 or later within the future School of Business portfolio (decided September 14, 2026; replaces the earlier Spring 2027 anchor position).
 - Recruitment language must distinguish available, proposed, and future offerings.
 - The $6 million recurring-revenue figure remains an unvalidated hypothesis.
 - The working role concept is **Director of Strategic Growth & Partnerships**, subject to refinement after the strategy clarifies the required mandate.
 - The strategy must explicitly inventory non-tuition revenue opportunities rather than allowing the project to become primarily an academic-program strategy.
 - Summer residence/accommodation rentals, including possible hotel/travel-platform listings, are now captured as an **exploratory revenue stream requiring a feasibility and pilot business case** before recommendation.
 - The three-year BA remains **proposed, not approved**.
+- The near-term priority sequence is: improve economics of existing programs, monetize underused assets through low-capital pilots, build sponsored platforms, then use pilot evidence to inform the 2031 institutional model.
+- Tier 1 near-term priorities are summer accommodation, MBA/Business enrolment growth, and conferences/retreats/group accommodation. No more than three pilots are selected in the first 30 days.
+- A distinct School of Business structure is a hypothesis requiring formal legal, governance, and accreditation study, not a conclusion.
+- Business development does not own academic standards, curriculum approval, accreditation, spiritual formation, or student assessment.
 
 ---
 
 ## 14. Project Status
 
-**Last updated:** September 9, 2026  
-**Current phase:** Strategic inventory, source consolidation, and gap analysis  
-**Completed:** Strategic thesis, three-pillar structure, consultant framing, role-positioning approach, project guardrails, repository inventory, initial academic initiative portfolio, revenue-stream register, missing-source list, and initial prioritization hypothesis  
-**New working file:** `Kingswood_Strategic_Inventory.md`  
-**In progress:** Reconcile the initiative/revenue inventory against the full source documents and distinguish verified evidence from prior-source context  
-**Known source-access limitation:** The current GitHub connector can verify the repository tree and read Markdown but is not reliably decoding binary DOCX/XLSX/PDF content. Binary-source claims must therefore remain content-verification pending until extracted through an accessible source workflow.  
-**Next step:** Add/locate missing strategic source files (especially summer accommodation, Revenue Generation Summary/Presidency platform, Amplify, Upward Sports, Festival of Lights written proposal, Organizational Leadership, Outdoor Adventure, and current institutional data) and then complete an evidence-backed initiative scorecard.  
+**Last updated:** October 1, 2026  
+**Current phase:** Source consolidation complete; moving to evidence validation and integrated strategy drafting  
+**Completed:** Strategic thesis, three-pillar structure, consultant framing, role-positioning approach, project guardrails, repository inventory, revenue-stream register, gap analysis, conversion of all binary sources to Markdown (Sept 9), campus-activation strategy, campus-enterprise assessment, weighted 30-initiative scorecard with ownership filter, 2031 vision, and 90-day agenda (Sept 14), `_MANIFEST.md` (Oct 1)  
+**Resolved since last status:** Binary-source access limitation (all sources now Markdown); Outdoor Adventure source added; Amplify timing decided (2028+)  
+**In progress:** Refresh `Kingswood_Strategic_Inventory.md` so its decision register and source-gap list reflect the September 14 prioritization  
+**Next step:** Resolve the open conflicts below, then replace provisional scores with verified institutional data and select the first three pilots  
 **Next major output:** Integrated consultant-grade Kingswood University Growth Strategy with prioritized business cases and three-year roadmap  
+
+### Open conflicts requiring a decision
+
+1. **Planning horizon.** The Master Strategy uses 2029 outcomes and the $6M-by-December-2029 hypothesis; the Prioritization uses a 2031 vision. Decide which horizon governs the integrated strategy and whether the $6M hypothesis is retained, restated for 2031, or retired.
+2. **Three-year roadmap vs 2031 vision.** The target deliverable (Section 9) calls for a three-year roadmap (to late 2029), while the vision runs to 2031. Confirm the roadmap covers 2026–2029 with 2030–2031 as directional.
+3. **Revenue Generation Summary.** Confirm whether `Kingswood Revenue Report.md` (Dec 2024) is the missing Revenue Generation Summary or a separate document. The Presidency growth platform source remains missing either way.
+
+### Remaining source gaps
+
+- Presidency growth platform (Nov 2024)
+- Upward Sports proposal and Year-1 pro forma
+- Festival of Lights written proposal and drive-through map
+- Organizational Leadership proposal / current program information
+- Business Lab and naming-rights concept
+- Current enrolment, tuition, retention, conversion, and financial data
+- Campus facility/space inventory and utilization calendar
+- Residence capacity and summer availability
 
 ### Open questions to resolve from the source files
 
 - Which programs and initiatives have formal approval?
 - What are the president's and Academic Cabinet's current priorities?
-- What decision authority and budget exist for Spring 2027 Amplify?
+- Will leadership authorize structured validation of summer accommodation, MBA/Business enrolment growth, and campus/conference sales?
 - Which initiatives have named owners, deadlines, or committed resources?
 - What verified enrolment, conversion, retention, financial, and capacity data are available?
 - Which proposals should be piloted, deferred, combined, or retired?
