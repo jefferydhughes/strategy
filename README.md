@@ -294,7 +294,8 @@ For every major revision:
 
 - `_MANIFEST.md` - read order and tier assignment for every file. Read first.
 - `Kingswood_Business_Development_Prioritization.md` - current ranked initiative portfolio, business-development mandate, 2031 vision, and 90-day agenda. Supersedes the prioritization hypothesis in the Strategic Inventory.
-- `Kingswood_Strategic_Inventory.md` - source inventory, revenue-stream register, gap analysis, and decision register. Requires refresh against the Prioritization file.
+- `Kingswood_Strategic_Inventory.md` - source inventory, revenue-stream register, gap analysis, and decision register. Refreshed against the Prioritization file on October 1, 2026.
+- `Kingswood_Data_Request_Tracker.md` - dated, sourced log of institutional data requested and received.
 
 ---
 
@@ -308,7 +309,8 @@ As of **October 1, 2026**:
 - Experiential learning should initially be piloted within approved programs before Kingswood attempts multiple large structural changes.
 - Amplify is deferred to 2028 or later within the future School of Business portfolio (decided September 14, 2026; replaces the earlier Spring 2027 anchor position).
 - Recruitment language must distinguish available, proposed, and future offerings.
-- The $6 million recurring-revenue figure remains an unvalidated hypothesis.
+- The $6 million recurring-revenue figure remains an unvalidated hypothesis; it is retained, not restated, and will be rebased against verified baseline data (decided October 1, 2026).
+- The 2031 vision governs the integrated strategy. The three-year roadmap covers 2026-2029; 2030-2031 is directional (decided October 1, 2026).
 - The working role concept is **Director of Strategic Growth & Partnerships**, subject to refinement after the strategy clarifies the required mandate.
 - The strategy must explicitly inventory non-tuition revenue opportunities rather than allowing the project to become primarily an academic-program strategy.
 - Summer residence/accommodation rentals, including possible hotel/travel-platform listings, are now captured as an **exploratory revenue stream requiring a feasibility and pilot business case** before recommendation.
@@ -324,17 +326,17 @@ As of **October 1, 2026**:
 
 **Last updated:** October 1, 2026  
 **Current phase:** Source consolidation complete; moving to evidence validation and integrated strategy drafting  
-**Completed:** Strategic thesis, three-pillar structure, consultant framing, role-positioning approach, project guardrails, repository inventory, revenue-stream register, gap analysis, conversion of all binary sources to Markdown (Sept 9), campus-activation strategy, campus-enterprise assessment, weighted 30-initiative scorecard with ownership filter, 2031 vision, and 90-day agenda (Sept 14), `_MANIFEST.md` (Oct 1)  
-**Resolved since last status:** Binary-source access limitation (all sources now Markdown); Outdoor Adventure source added; Amplify timing decided (2028+)  
-**In progress:** Refresh `Kingswood_Strategic_Inventory.md` so its decision register and source-gap list reflect the September 14 prioritization  
-**Next step:** Resolve the open conflicts below, then replace provisional scores with verified institutional data and select the first three pilots  
+**Completed:** Strategic thesis, three-pillar structure, consultant framing, role-positioning approach, project guardrails, repository inventory, revenue-stream register, gap analysis, conversion of all binary sources to Markdown (Sept 9), campus-activation strategy, campus-enterprise assessment, weighted 30-initiative scorecard with ownership filter, 2031 vision, and 90-day agenda (Sept 14), `_MANIFEST.md`, Strategic Inventory refresh, and data request tracker (Oct 1)  
+**Resolved since last status:** Planning horizon (2031 vision; 2026-2029 roadmap); $6M retained as hypothesis pending rebase; Strategic Inventory reconciled with the Prioritization file  
+**In progress:** Collecting verified institutional data through `Kingswood_Data_Request_Tracker.md`  
+**Next step:** Confirm the Revenue Report question below, then replace provisional scores with verified institutional data and select the first three pilots  
 **Next major output:** Integrated consultant-grade Kingswood University Growth Strategy with prioritized business cases and three-year roadmap  
 
 ### Open conflicts requiring a decision
 
-1. **Planning horizon.** The Master Strategy uses 2029 outcomes and the $6M-by-December-2029 hypothesis; the Prioritization uses a 2031 vision. Decide which horizon governs the integrated strategy and whether the $6M hypothesis is retained, restated for 2031, or retired.
-2. **Three-year roadmap vs 2031 vision.** The target deliverable (Section 9) calls for a three-year roadmap (to late 2029), while the vision runs to 2031. Confirm the roadmap covers 2026–2029 with 2030–2031 as directional.
-3. **Revenue Generation Summary.** Confirm whether `Kingswood Revenue Report.md` (Dec 2024) is the missing Revenue Generation Summary or a separate document. The Presidency growth platform source remains missing either way.
+1. **Revenue Generation Summary.** Confirm whether `Kingswood Revenue Report.md` (Dec 2024) is the missing Revenue Generation Summary or a separate document. The Presidency growth platform source remains missing either way.
+
+**Resolved October 1, 2026:** Planning horizon (2031 vision governs; three-year roadmap covers 2026-2029 with 2030-2031 directional) and the $6M hypothesis (retained as a hypothesis, rebase pending verified data). See Strategic Inventory Section 7, items 11-12.
 
 ### Remaining source gaps
 

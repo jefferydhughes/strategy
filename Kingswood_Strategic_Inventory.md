@@ -1,37 +1,48 @@
 # Kingswood University Strategic Inventory
 
 **Prepared:** September 9, 2026  
+**Last refreshed:** October 1, 2026 (against `Kingswood_Business_Development_Prioritization.md` and README Sections 13-14)  
 **Purpose:** Create a working inventory of the initiatives, revenue streams, source files, evidence gaps, and validation needs that must be resolved before the integrated Kingswood University Growth Strategy is finalized.
 
-> **Important:** This is a working control document, not an approved institutional plan. Statuses below follow the governing README: Confirmed, Proposed, Exploratory, Hypothesis, and Retired. Where the GitHub connector can verify the existence of a source file but cannot yet decode its binary contents, the item is marked **Source file present - content verification pending** rather than treated as confirmed evidence.
+> **Important:** This is a working control document, not an approved institutional plan. Statuses below follow the governing README: Confirmed, Proposed, Exploratory, Hypothesis, and Retired. The ranked portfolio lives in `Kingswood_Business_Development_Prioritization.md`; this file does not maintain a separate ranking.
 
 ---
 
 ## 1. Current Repository Inventory
 
-The `main` branch currently contains 15 items: 10 substantive strategy/program files, the governing README, and four visual assets related to the Christmas/Festival of Lights concept.
+As of October 1, 2026, the repository contains 26 files: the manifest, 4 Tier 1 control files, 5 Tier 2 strategy-context files, 12 Tier 3 initiative sources, and 4 Tier 4 visual assets. All original DOCX/XLSX/PDF sources were converted to Markdown and removed on September 9, 2026; every text source is now readable. Tier order is read order, not authority (README Section 11).
 
-| Source | Type | Working relevance | Verification state |
+| Source | Tier | Role | Prioritization rank |
 |---|---|---|---|
-| `README.md` | Markdown | Governing strategic thesis, source hierarchy, guardrails, current decisions and project status | **Verified/readable** |
-| `Kingswood_Master_Strategy.docx` | DOCX | Prior institutional master strategy and recurring-revenue framework | **Source file present - content verification pending in GitHub connector** |
-| `Kingswood School of Business.docx` | DOCX | School of Business program architecture and growth concept | **Source file present - content verification pending** |
-| `BBA in Innovation and Sustainability at Kingswood University Proposal.docx` | DOCX | Experiential/project-based undergraduate business proposal | **Source file present - content verification pending** |
-| `BBAM-Project based.docx` | DOCX | Project-based Ministry/Business academic concept | **Source file present - content verification pending** |
-| `9 Month Marketplace Ministry Accelerator yr1.docx` | DOCX | Marketplace ministry / accelerator pathway | **Source file present - content verification pending** |
-| `Proposal_ Adopting the Royal Roads University Learning, Teaching, and Research Model at Kingswood University.docx` | DOCX | Applied/authentic/community-based/transformational learning model | **Source file present - content verification pending** |
-| `elements original.docx` | DOCX | Original Elements one-year program concept | **Source file present - content verification pending** |
-| `Elements Calendar.xlsx` | XLSX | Elements operating/program calendar | **Source file present - content verification pending** |
-| `Elements-CBE.xlsx` | XLSX | Competency-based Elements design/workbook | **Source file present - content verification pending** |
-| `Degree in 3 (1).pdf` | PDF | Three-year degree concept/research | **Source file present - content verification pending** |
-| `christmas.jpg` | Image | Festival of Lights concept/reference | **Visual asset present** |
-| `christmas2.jpg` | Image | Festival of Lights concept/reference | **Visual asset present** |
-| `christmas3.png` | Image | Festival of Lights concept/reference | **Visual asset present** |
-| `christmas4.jpg` | Image | Festival of Lights concept/reference | **Visual asset present** |
+| `_MANIFEST.md` | Read first | Read order and tier assignment for every file | - |
+| `README.md` | 1 | Governing rules, thesis, evidence labels, source hierarchy, current decisions, project status | - |
+| `Kingswood_Business_Development_Prioritization.md` | 1 | Ranked 30-initiative portfolio, BD mandate, 2031 vision, 90-day agenda (Sept 14, 2026) | All |
+| `Kingswood_Strategic_Inventory.md` | 1 | This file: source inventory, revenue-stream register, gap analysis, decision register | - |
+| `Kingswood_Data_Request_Tracker.md` | 1 | Dated, sourced log of institutional data requested and received (created Oct 1, 2026) | All |
+| `Kingswood_Master_Strategy.md` | 2 | Earlier strategy spine: North Star, pillars, 2029 outcomes, $6M hypothesis | - |
+| `Year_Round_Campus_Activation_Strategy.md` | 2 | Campus-as-platform thesis (Sept 9, 2026) | 1, 3, 5, 9 |
+| `Kingswood Revenue Report.md` | 2 | Revenue Generation Report Vol 1.1 (Dec 27, 2024): comparable-institution revenue research | - |
+| `Business revenue-workplace training.md` | 2 | Campus-enterprise / Bethany-model assessment, Sussex-area evidence (Sept 10, 2026) | 11 |
+| `Summer_Accommodation_Source_Note.md` | 2 | Original summer-rental concept notes (supplied Sept 9, 2026) | 1 |
+| `Kingswood School of Business (1).md` | 3 | School of Business pathways / web concept | 7, 22 |
+| `BBA in Innovation and Sustainability at Kingswood University Proposal.md` | 3 | Accelerated 36-month BBA | 24, 25 |
+| `BBAM-Project based.md` | 3 | Accelerated 36-month BA in Ministry | 24 |
+| `degree-in-3.md` | 3 | Degree in 3 concept | 24 |
+| `B.A. in Sports & Recreation Management.md` | 3 | Sports & Rec degree (recruitment copy) | 27 |
+| `Kingswood_Outdoor_Adventure_I_and_II (1).md` | 3 | OUTD 1013 / 1023 course design | 28 |
+| `9 Month Marketplace Ministry Accelerator yr1.md` | 3 | Marketplace Ministry Accelerator | 16 |
+| `elements original.md` | 3 | Elements program design | 18 |
+| `elements-calendar.md` | 3 | Elements calendar and weekly schedule | 18 |
+| `elements-cbe.md` | 3 | Elements competency-based education workbook | 18, 29 |
+| `WORK DUTY PHILOSOPHY.md` | 3 | Elements student work duties | 11, 18 |
+| `Proposal_ Adopting the Royal Roads University Learning, Teaching, and Research Model at Kingswood University.md` | 3 | Learning, teaching and research model | 25 |
+| `christmas.jpg`, `christmas2.jpg`, `christmas3.png`, `christmas4.jpg` | 4 | Festival of Lights visuals | 13 |
+
+The `(1)` filenames are the only versions in the repo, not duplicates.
 
 ### Immediate repository finding
 
-The repo is already strong on **academic program design and experiential-learning concepts**, but the file set is visibly thinner on **standalone commercial/non-tuition revenue concepts, partnership operating plans, recruitment/conversion systems, and initiative-level financial models**. Several of those concepts are referenced in the README or prior Kingswood work but do not yet have an obvious dedicated source file in this repo.
+The repo remains strongest on **academic program design and experiential-learning concepts**. Files added since September 9 (campus activation, campus enterprise, summer accommodation, the Revenue Report, and the Prioritization) have narrowed the gap on **non-tuition revenue concepts**, but the repo still lacks **partnership operating plans, recruitment/conversion data, initiative-level financial models, and verified institutional data**. Remaining gaps are listed in Section 8.
 
 ---
 
@@ -45,17 +56,17 @@ The repo is already strong on **academic program design and experiential-learnin
 | 36-credit Christian MBA | **Confirmed / operating** | README states it launched Spring 2026 and should lead the MBA strategy | Current enrolment, tuition, conversion, delivery economics, positioning evidence |
 | Competency-based MBA pathway | **Proposed / phased development** | README explicitly says not to describe it as operational | Accreditation/regulatory requirements, assessment model, mentor model, staffing, economics |
 | Organizational Leadership programming | **Proposed / needs current-status check** | Named in README as relevant pathway | Approval status, current delivery, differentiation versus MBA |
-| Three-year BA / accelerated degree | **Proposed** | `Degree in 3 (1).pdf`; README specifically warns not to call the three-year degree approved | Regulatory/academic approval, credit structure, student demand, staffing, pricing |
+| Three-year BA / accelerated degree | **Proposed** | `degree-in-3.md`; README specifically warns not to call the three-year degree approved | Regulatory/academic approval, credit structure, student demand, staffing, pricing |
 | BBA in Innovation & Sustainability / experiential BBA | **Proposed** | Dedicated proposal file present | Approval path, differentiation, implementation sequence, market validation |
 | Project-based Ministry / BBAM concept | **Proposed** | Dedicated source file present | Relationship to existing degrees, approval path, demand, faculty/mentor load |
-| Elements one-year pathway | **Proposed / development-stage** | Original DOCX plus calendar and CBE workbooks present | Final program model, approval status, pricing, target student, recruitment role, operating capacity |
-| Competency-based Elements model | **Proposed / exploratory pending verification** | `Elements-CBE.xlsx` | Whether CBE is core design or alternative; assessment and mentor requirements |
+| Elements one-year pathway | **Proposed / development-stage** | `elements original.md`, `elements-calendar.md`, `elements-cbe.md` | Final program model, approval status, pricing, target student, recruitment role, operating capacity |
+| Competency-based Elements model | **Proposed / exploratory pending verification** | `elements-cbe.md` | Whether CBE is core design or alternative; assessment and mentor requirements |
 | 9-Month Marketplace Ministry Accelerator | **Proposed** | Dedicated source file present | Credential/non-credit status, buyer/student, tuition/fee, delivery owner, relationship to Elements and Business |
 | Stackable certificates / micro-credentials | **Exploratory / proposed platform** | README names stackable credentials, certificates and executive education | Specific offers, approval rules, pricing, laddering into degrees |
 | Executive education / intensives | **Exploratory / proposed** | README | Target markets, offers, delivery calendar, pricing, sales ownership |
 | Student ventures, practicums, internships and community projects | **Proposed operating model** | README and Royal Roads-inspired learning model file | Placement capacity, partner pipeline, faculty workload, assessment model |
-| Sports & Recreation integration | **Proposed** | README | Academic home, student demand, practicum/recruitment role, operating cost |
-| Outdoor Adventure academic courses/program | **Prior-source context; not currently visible as a repo file** | Prior Kingswood source material included OUTD 1013/1023 and field-based design | Add source file to repo; approval status; relationship to Elements/Sports/Recruitment |
+| Sports & Recreation integration | **Proposed** | README; `B.A. in Sports & Recreation Management.md` | Academic home, student demand, practicum/recruitment role, operating cost |
+| Outdoor Adventure academic courses/program | **Prior-source context; source file now in repo** | `Kingswood_Outdoor_Adventure_I_and_II (1).md` (OUTD 1013/1023, field-based design) | Approval status; relationship to Elements/Sports/Recruitment |
 
 ---
 
@@ -63,9 +74,9 @@ The repo is already strong on **academic program design and experiential-learnin
 
 | Initiative | Working status | Strategic role | Gap |
 |---|---|---|---|
-| School of Business positioning / program-fit experience | **Proposed / developed concept** | Improve undergraduate/graduate program discovery and conversion | Current marketing funnel data and source file for landing-page/quiz concept are not obvious in repo |
+| School of Business positioning / program-fit experience | **Proposed / developed concept** | Improve undergraduate/graduate program discovery and conversion | Current marketing funnel data not yet available; concept source is `Kingswood School of Business (1).md` |
 | Elements as entry pathway | **Proposed** | One-year entry product that can feed longer degree pathways | Need explicit conversion model and target recruitment segments |
-| Amplify Leadership Summit - Spring 2027 | **Current working priority / proposed event** | Recruitment + academic + community + partnership anchor | Dedicated source/business case not currently obvious in repo; budget, owner and decision rights needed |
+| Amplify Leadership Summit | **Proposed event; deferred to 2028 or later (Sept 14, 2026)** | Recruitment + academic + community + partnership anchor within the future School of Business portfolio | Not a near-term priority (Prioritization rank 21); audience, sponsorship, ownership and economics to be defined when revisited |
 | Upward Sports / campus sports initiative | **Proposed / prior developed concept** | Community engagement, student practicum, family recruitment and possible earned revenue | Dedicated source file not currently obvious in repo; confirm Year-1 pro forma and approvals |
 | Festival of Lights | **Proposed** | Community awareness, campus activation, lead generation and possible earned revenue | Visual assets exist; proposal/business case should be added or clearly linked |
 | Church partnerships | **Exploratory / proposed channel** | Student referrals, ministry pathways, accelerator and executive-education distribution | Define offers, incentives/benefits, owner, target churches and conversion mechanism |
@@ -84,7 +95,7 @@ The purpose of this section is to ensure that ideas do not disappear inside larg
 | Existing undergraduate Business tuition | **Confirmed category** | Tuition | README; needs verified current economics |
 | Christian MBA tuition | **Confirmed operating stream** | Graduate tuition | README; needs verified enrolment, tuition and contribution margin |
 | Organizational Leadership tuition | **Needs status confirmation** | Graduate tuition | Named in README; operating/approval status needs verification |
-| Three-year BA tuition | **Proposed** | Accelerated undergraduate tuition / improved conversion | `Degree in 3 (1).pdf`; explicitly not approved per README |
+| Three-year BA tuition | **Proposed** | Accelerated undergraduate tuition / improved conversion | `degree-in-3.md`; explicitly not approved per README |
 | Experiential BBA tuition | **Proposed** | Undergraduate tuition | Dedicated proposal file present |
 | Elements tuition/program fee | **Proposed** | One-year program tuition/fee | Multiple Elements source files present |
 | Marketplace Ministry Accelerator fee/tuition | **Proposed** | Cohort/program fee | Dedicated source file present |
@@ -95,8 +106,8 @@ The purpose of this section is to ensure that ideas do not disappear inside larg
 
 | Revenue stream | Status | Revenue mechanism | Current evidence / action |
 |---|---|---|---|
-| **Summer residence / accommodation rentals** | **Exploratory - important remembered stream, not yet source-verified in current repo** | Nightly/weekly accommodation revenue during low student occupancy | Jeff specifically identified this as a revenue stream; add a source note/business case to repo before final strategy |
-| **Listing summer accommodations on hotel/travel booking sites** | **Exploratory - not yet source-verified in current repo** | OTA/direct accommodation bookings | Needs feasibility check: residence standards, season, cleaning, insurance, taxes, platform fees, staffing, pricing and local demand |
+| **Summer residence / accommodation rentals** | **Exploratory - source note in repo (Sept 9, 2026)** | Nightly/weekly accommodation revenue during low student occupancy | `Summer_Accommodation_Source_Note.md`; Prioritization rank 1; feasibility study is an Execute-now item |
+| **Listing summer accommodations on hotel/travel booking sites** | **Exploratory - captured in source note (Sept 9, 2026)** | OTA/direct accommodation bookings | Needs feasibility check: residence standards, season, cleaning, insurance, taxes, platform fees, staffing, pricing and local demand |
 | Conferences and retreats | **Exploratory / prior strategy context** | Facility + accommodation + food/service fees | Consistent with campus-as-platform thesis; dedicated business case not currently obvious in repo |
 | Facility/classroom/auditorium rentals | **Exploratory** | Rental fees | Needs inventory of rentable spaces, rates, restrictions and calendar capacity |
 | Kitchen / food-service use | **Exploratory** | Catering, event or rental contribution | README frames campus assets broadly; needs operational model |
@@ -111,7 +122,7 @@ The purpose of this section is to ensure that ideas do not disappear inside larg
 |---|---|---|---|
 | School of Business naming rights | **Exploratory / prior developed proposal** | Major mission-aligned gift/sponsorship | Prior Kingswood proposal context; dedicated source should be added to repo |
 | Business Lab naming/sponsorship | **Exploratory** | Naming gift / sponsorship | Named in README as Business Lab and naming-rights opportunity |
-| Amplify sponsorships | **Exploratory** | Event/program sponsorship | Amplify is a current strategic priority; sponsorship architecture needs business case |
+| Amplify sponsorships | **Exploratory** | Event/program sponsorship | Amplify deferred to 2028 or later; sponsorship architecture to be built when Amplify is revisited |
 | Mission-aligned corporate sponsorships | **Exploratory** | Sponsorship | README explicitly names this category |
 | Targeted philanthropy / donor relationships | **Exploratory / institutional channel** | Donations / restricted gifts | README names donor relationships; needs alignment with Advancement responsibilities |
 | Church / nonprofit partnership revenue | **Exploratory** | Contract training, cohort agreements, sponsorship or referral pathways | Need to distinguish mission partnership from commercial revenue |
@@ -140,7 +151,7 @@ There are multiple files supporting academic redesign, experiential learning, El
 
 Summer residence rentals and hotel/travel-site listings are strategically important because they use an existing asset during periods of lower student occupancy and can potentially create near-term earned revenue without creating a new degree.
 
-**Current classification:** Exploratory until source evidence, operating feasibility and economics are documented.
+**Current classification:** Exploratory. Source evidence is now in the repo (`Summer_Accommodation_Source_Note.md`, Sept 9, 2026); operating feasibility and economics are not yet documented.
 
 **Minimum business case needed:**
 
@@ -157,23 +168,11 @@ Summer residence rentals and hotel/travel-site listings are strategically import
 
 ### Gap 3 - Three-year BA is present, but status discipline matters
 
-The repo includes `Degree in 3 (1).pdf`, and the README specifically warns that the three-year degree is **not to be described as approved**. It belongs in the strategy as a proposed pathway requiring academic and regulatory validation, not as a current recruitment promise.
+The repo includes `degree-in-3.md`, and the README specifically warns that the three-year degree is **not to be described as approved**. It belongs in the strategy as a proposed pathway requiring academic and regulatory validation, not as a current recruitment promise.
 
-### Gap 4 - Several previously developed initiatives are not obvious in the repo tree
+### Gap 4 - Several previously developed initiatives are still missing from the repo
 
-Items that should be located and added if they remain strategically relevant include:
-
-- Upward Sports proposal and Year-1 pro forma
-- Amplify Spring 2027 concept/business case
-- Festival of Lights written proposal (not only image assets)
-- Prior Presidency / Revenue Generation Summary
-- Master of Organizational Leadership proposal/current status documentation
-- Outdoor Adventure I & II proposal
-- School of Business landing-page / program-fit conversion concept
-- Summer residence / hospitality revenue concept
-- Naming-rights / Business Lab proposal
-- Business Accelerator / Tentmaker Ministry concept
-- Any financial models supporting recurring-revenue ideas
+The original Gap 4 list (Sept 9, 2026) has been reconciled against README Section 14. Summer accommodation, Outdoor Adventure, and the School of Business web concept are now in the repo; the Amplify brief is no longer needed before 2028. The current list of missing sources is maintained in Section 8.
 
 ### Gap 5 - Revenue ideas need economics, not just descriptions
 
@@ -181,7 +180,7 @@ Before prioritization, each material stream should have at least a simple busine
 
 `Customer -> Offer -> Price -> Volume assumption -> Gross revenue -> Direct costs -> Contribution -> Capacity -> Owner -> Time to launch -> Approval dependencies -> KPI`
 
-This is particularly important because the governing README keeps the historic **$6 million annual recurring-revenue figure by December 2029** as a hypothesis, not an institutional target.
+This is particularly important because the governing README keeps the historic **$6 million annual recurring-revenue figure by December 2029** as a hypothesis, not an institutional target (retained as a Hypothesis on October 1, 2026, pending rebase against verified data; see Section 7, item 12).
 
 ### Gap 6 - Ownership and decision rights remain unresolved
 
@@ -191,41 +190,14 @@ The role recommendation should continue to emerge from this execution problem ra
 
 ---
 
-## 5. Initial Portfolio Prioritization Hypothesis
+## 5. Portfolio Prioritization - See Prioritization File
 
-This is a **working hypothesis for validation**, not a final recommendation.
+The initial prioritization hypothesis that occupied this section (September 9, 2026) is superseded by `Kingswood_Business_Development_Prioritization.md` (September 14, 2026). Use:
 
-### Execute now / optimize existing
+- **Section 5** of that file for the ranked 30-initiative portfolio, scores, ownership, and next moves
+- **Section 6** of that file for the Execute now / Validate next / Develop for 2028-2031 / Combine or retire groupings
 
-- Christian MBA recruitment and conversion
-- Existing Business programs
-- Spring 2027 Amplify planning within the README's focused scope
-- Inventory and financial baseline of existing programs and campus assets
-- Build the institutional growth scorecard and decision process
-
-### Validate next
-
-- Summer residence / accommodation rentals and hotel-site listings
-- Three-year BA
-- Elements pathway and its role in student conversion
-- Experiential BBA / project-based learning pilot inside approved programs
-- Upward Sports as community/recruitment/practicum platform
-- Festival of Lights as a community/recruitment/earned-revenue pilot
-- Executive education / short credentials
-- Employer, church and community partnership channels
-- Business Lab / naming-rights opportunity
-
-### Develop for later
-
-- Competency-based MBA delivery
-- Larger accelerator ecosystem
-- New stackable credential architecture
-- Expanded sports/recreation academic offerings
-- Impact-investment fund or other capital-intensive venture structures
-
-### Do not pursue / retire
-
-No initiative should be placed here yet without a documented decision. The synthesis phase should explicitly identify duplicates, concepts superseded by Amplify or Elements, and ideas whose complexity or economics do not justify further work.
+Scores in that file are provisional until verified institutional data replaces them (see `Kingswood_Data_Request_Tracker.md`). This inventory does not maintain a separate ranking.
 
 ---
 
@@ -253,42 +225,52 @@ For each revenue stream, complete the following fields before it becomes a recom
 
 ---
 
-## 7. Decision Register - Items Now Requiring Resolution
+## 7. Decision Register
 
-1. Confirm the formal approval/operating status of every academic program in the portfolio.
-2. Confirm whether Organizational Leadership currently operates and how it should relate to the MBA.
-3. Determine whether the three-year BA should advance to formal feasibility/approval work.
-4. Define Elements' primary strategic job: recruitment pathway, discipleship year, academic credential, CBE pilot, or a combination with explicit sequencing.
-5. Confirm scope, owner and budget for Amplify Spring 2027.
-6. Decide whether Upward Sports and Festival of Lights remain active proposals.
-7. Add the summer-accommodation concept to the source repository and commission a simple pilot business case.
-8. Locate/add the prior Revenue Generation Summary and Presidency proposal if they remain relevant.
-9. Decide which event/accelerator concepts should be combined under Amplify rather than developed independently.
-10. Establish who owns cross-functional growth validation and implementation.
+Status as of October 1, 2026. Resolved items stay in the register with their resolution date.
+
+| # | Decision | Status | Date | Resolution / next action |
+|---:|---|---|---|---|
+| 1 | Confirm the formal approval/operating status of every academic program in the portfolio | Open | - | Requires Registrar / Academic Affairs confirmation |
+| 2 | Confirm whether Organizational Leadership currently operates and how it should relate to the MBA | Open | - | Prioritization rank 26; source still missing (Section 8) |
+| 3 | Determine whether the three-year BA should advance to formal feasibility/approval work | Open | - | Prioritization places it in Develop for 2028-2031 (rank 24); remains **Proposed**, not approved |
+| 4 | Define Elements' primary strategic job: recruitment pathway, discipleship year, academic credential, CBE pilot, or a combination with explicit sequencing | Open | - | Prioritization rank 18 next move is this decision |
+| 5 | Confirm scope, owner and budget for Amplify Spring 2027 | **Resolved** | Sept 14, 2026 | Amplify deferred to 2028 or later within the future School of Business portfolio; replaces the Spring 2027 anchor position. Prioritization rank 21 |
+| 6 | Decide whether Upward Sports and Festival of Lights remain active proposals | Open | - | Both remain in Prioritization Tier 2 (ranks 13, 14) as Validate next; no formal decision recorded |
+| 7 | Add the summer-accommodation concept to the source repository and commission a simple pilot business case | **Resolved** | Sept 9, 2026 | `Summer_Accommodation_Source_Note.md` added Sept 9, 2026; ranked #1 in the Prioritization (Sept 14, 2026) with the feasibility study as an Execute-now item. Concept remains **Exploratory**; leadership authorization of structured validation is still open (README Section 14) |
+| 8 | Locate/add the prior Revenue Generation Summary and Presidency proposal if they remain relevant | **Open - partly addressed** | Oct 1, 2026 | `Kingswood Revenue Report.md` (Vol 1.1, Dec 27, 2024) is in the repo; whether it is the Revenue Generation Summary is **not yet confirmed**. Presidency growth platform (Nov 2024) still missing |
+| 9 | Decide which event/accelerator concepts should be combined under Amplify rather than developed independently | Open | - | With Amplify deferred, test via the Prioritization Section 6 "Combine or retire" groupings |
+| 10 | Establish who owns cross-functional growth validation and implementation | Open | - | Prioritization Sections 3 and 8 propose a Strategic Growth & Partnerships function; not approved |
+| 11 | Set the planning horizon for the integrated strategy | **Resolved** | Oct 1, 2026 | 2031 vision governs. The three-year roadmap covers 2026-2029; 2030-2031 is directional. Master Strategy 2029 outcomes are reconciled to this frame when drafting. Closes README open conflicts 1 (horizon) and 2 |
+| 12 | Decide the status of the $6M recurring-revenue figure | **Resolved** | Oct 1, 2026 | Retained as a **Hypothesis**, not an institutional target. Figure and December 2029 date unchanged; to be rebased into a revenue bridge once verified baseline data is collected |
 
 ---
 
 ## 8. Source Gaps / Files to Add
 
-**High priority:**
+Aligned to README Section 14 as of October 1, 2026.
 
-- Revenue Generation Summary / Presidency growth platform
-- Summer accommodation / hospitality concept
-- Amplify Spring 2027 working brief
-- Upward Sports proposal + pro forma
-- Festival of Lights written proposal
-- Organizational Leadership proposal/current program information
-- Outdoor Adventure I & II proposal
-- Any current enrolment, tuition, retention and financial data
+**Source documents still missing:**
 
-**Useful next:**
+- Presidency growth platform (Nov 2024)
+- Revenue Generation Summary - pending confirmation that `Kingswood Revenue Report.md` is this document (Section 7, item 8)
+- Upward Sports proposal and Year-1 pro forma
+- Festival of Lights written proposal and drive-through map
+- Organizational Leadership proposal / current program information
+- Business Lab and naming-rights concept
 
-- School of Business web/recruitment concept
-- Business Lab / naming-rights concept
-- Executive education / accelerator concepts
-- Employer/church partnership concepts
+**Institutional data still missing** (requests tracked in `Kingswood_Data_Request_Tracker.md`):
+
+- Current enrolment, tuition, retention, conversion, and financial data
 - Campus facility/space inventory and utilization calendar
-- Current Advancement sponsorship/donor strategy where relevant
+- Residence capacity and summer availability
+
+**Closed since September 9, 2026:**
+
+- Summer accommodation / hospitality concept - `Summer_Accommodation_Source_Note.md`
+- Outdoor Adventure I & II proposal - `Kingswood_Outdoor_Adventure_I_and_II (1).md`
+- School of Business web/recruitment concept - `Kingswood School of Business (1).md`
+- Amplify Spring 2027 working brief - no longer required; Amplify deferred to 2028 or later
 
 ---
 
@@ -306,7 +288,7 @@ The most important immediate synthesis task is now to ensure that the **non-tuit
 
 ## 10. Working Status
 
-**Phase:** Strategic inventory and gap analysis  
-**Completed in this pass:** Repo inventory; initial academic initiative portfolio; revenue-stream register; missing-source list; initial prioritization hypothesis.  
-**Known limitation:** GitHub connection currently exposes the repo tree and Markdown text but is not decoding the binary DOCX/XLSX/PDF contents for direct extraction. Those source files must be content-verified before detailed claims from them are promoted into the master strategy.  
-**Next major task:** Reconcile this inventory against the full text of the binary source documents and build the evidence-backed initiative scorecard/business-case portfolio.
+**Last updated:** October 1, 2026  
+**Phase:** Evidence validation and integrated strategy drafting  
+**Completed:** Repo inventory; academic initiative portfolio; revenue-stream register; gap analysis (Sept 9, 2026). Refresh against the Prioritization file and README Sections 13-14: repository inventory, Section 5 pointer, decision register, and source gaps updated; data request tracker created (Oct 1, 2026).  
+**Next major task:** Collect verified institutional data through `Kingswood_Data_Request_Tracker.md`, replace provisional Prioritization scores, and select the first three pilots.

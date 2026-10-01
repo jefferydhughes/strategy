@@ -11,7 +11,8 @@
 |---|---|---|
 | `README.md` | Governing rules, thesis, evidence labels, source hierarchy, current decisions, project status | Section 14 is the resume point |
 | `Kingswood_Business_Development_Prioritization.md` | Latest strategic direction (Sept 14, 2026): ranked 30-initiative portfolio, BD mandate, 2031 vision, 90-day agenda | Supersedes the prioritization in the Strategic Inventory |
-| `Kingswood_Strategic_Inventory.md` | Control document: source inventory, revenue-stream register, gap analysis, decision register | Partly stale. Section 5 superseded by the Prioritization file; decision register item 5 (Amplify 2027) superseded; binary-file limitation in Section 10 no longer applies |
+| `Kingswood_Strategic_Inventory.md` | Control document: source inventory, revenue-stream register, gap analysis, decision register | Refreshed Oct 1, 2026. Section 5 points to the Prioritization file and does not rank |
+| `Kingswood_Data_Request_Tracker.md` | Dated, sourced log of institutional data requested and received | Created Oct 1, 2026. Every entry needs a date and source |
 
 ## Tier 2 — Strategy context (read when drafting the integrated strategy)
 
